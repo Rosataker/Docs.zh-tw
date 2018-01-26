@@ -211,7 +211,7 @@ Contoso 大學網站**有關** 頁面上，您要顯示多少學生已註冊的�
 
 建立*SchoolViewModels*資料夾中的*模型*資料夾。
 
-在新的資料夾中，將類別檔案加入*EnrollmentDateGroup.cs*和範本程式碼取代為下列程式碼：
+在新的資料夾中，將建立類別檔案*EnrollmentDateGroup.cs*並將範本程式碼取代為下列程式碼：
 
 [!code-csharp[Main](intro/samples/cu/Models/SchoolViewModels/EnrollmentDateGroup.cs)]
 
